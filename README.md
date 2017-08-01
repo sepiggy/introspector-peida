@@ -1,0 +1,1 @@
+Demos for [深入理解 Java：内省 (Introspector)](http://www.cnblogs.com/peida/archive/2013/06/03/3090842.html)
